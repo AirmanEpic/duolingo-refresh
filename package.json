@@ -1,0 +1,25 @@
+{
+  "name": "duolingo-refresh",
+  "version": "0.0.1",
+  "description": "A system to ensure you retain knowledge that you might have forgotten when you were training duolingo.",
+  "main": "electron_app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/AirmanEpic/duolingo-refresh.git"
+  },
+  "author": "AirmanEpic",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/AirmanEpic/duolingo-refresh/issues"
+  },
+  "homepage": "https://github.com/AirmanEpic/duolingo-refresh#readme",
+  "dependencies": {
+    "dialogs": "^2.0.1",
+    "electron-debug": "^3.0.1",
+    "google-translate-api": "^2.3.0",
+    "python-shell": "^1.0.8"
+  }
+}
